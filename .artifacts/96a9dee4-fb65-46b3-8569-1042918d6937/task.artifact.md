@@ -1,0 +1,6 @@
+- `[/]` Implement ZpuSecretKeyManager.java for secret authentication key
+- `[ ]` Update ZpuVpnService.java for Android 15 Always-On VPN default route
+- `[ ]` Update ZpuBridge.java for secret key validation and stable connection sounds
+- `[ ]` Update MainActivity.java for live log 500ms refresh timer and full profile configurator settings
+- `[ ]` Update ZPU_MASTER_BRIDGE.ps1 for AUTH_KEY handshake
+- `[ ]` Verify build with gradle_build("app:assembleDebug")
